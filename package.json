@@ -1,5 +1,5 @@
 {
-  "name": "top-progress-bar",
+  "name": "nprogress-latest",
   "version": "1.0.0",
   "description": "A very simple, highly customisable react top progressbar component.",
   "main": "dist/index.js",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imarjunshrma/top-progress-bar"
+    "url": "https://github.com/imarjunshrma/react-nprogress.git"
   },
-  "homepage": "https://github.com/imarjunshrma/top-progress-bar",
+  "homepage": "https://github.com/imarjunshrma/react-nprogress.git",
   "keywords": [
     "react component",
     "react-loading",
