@@ -1,6 +1,6 @@
+import React from "react";
 import nProgress from './nprogress.js';
 import "./nprogress.css";
-import React from "react";
 
 const NProgress = ({ configure, options = { onRouteChange: true, onSectionScroll: false } }) => {
     const { onRouteChange, onSectionScroll } = options;
