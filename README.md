@@ -68,7 +68,7 @@ Adjust animation settings using the easing option (a CSS easing string) and the 
 Turn off the automatic incrementing behavior by setting the trickle option to `false`.
 
 ```js
-<NProgress configure({ trickle: false })/>
+<NProgress configure({ trickle: false }) />
 ```
 
 #### `trickleSpeed`

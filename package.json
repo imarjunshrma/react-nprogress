@@ -1,5 +1,5 @@
 {
-  "name": "nprogress-latest",
+  "name": "react-nprogress-latest",
   "version": "1.0.1",
   "description": "A very simple, highly customisable react top progressbar component.",
   "main": "dist/index.js",
