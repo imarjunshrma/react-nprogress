@@ -1,6 +1,6 @@
 {
   "name": "react-nprogress-latest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very simple, highly customisable react top progressbar component.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
