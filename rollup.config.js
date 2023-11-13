@@ -5,7 +5,7 @@ import postcss from 'rollup-plugin-postcss';
 import peerDepsExternal from 'rollup-plugin-peer-deps-external'
 import { babel } from '@rollup/plugin-babel';
 // import { uglify } from "rollup-plugin-uglify";
-import uglify from "@lopatnov/rollup-plugin-uglify";
+// import uglify from "@lopatnov/rollup-plugin-uglify";
 // const packageJson = require('./package.json')
 
 export default [
@@ -47,7 +47,7 @@ export default [
                 babelHelpers: "bundled",
                 exclude: 'node_modules/**',
             }),
-            uglify()
+            // uglify()
         ],
     }
 ]
