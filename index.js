@@ -2,6 +2,5 @@
 // export { default } from './src/NProgress1';
 
 
-export { default } from './src/nprogress';
+export { default } from './src/NProgressComp';
 export * from './src/nprogress';
-import './src/nprogress.css';

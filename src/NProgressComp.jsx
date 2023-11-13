@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import nProgress from './nprogress';
+import './nprogress.css';
 
 const basicConfiguration = {
     minimum: 0.08,
